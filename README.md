@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhishek Kumar
+- 👋 Hi, I’m @Abhishek
 - 👀 I’m a Flutter developer who uses BLoC and Node.js
 - 🌱 I’m currently learning Game Development
 - 💞️ I’m looking to collaborate on ...
