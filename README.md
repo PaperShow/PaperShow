@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PaperShow
-- 👀 I’m interested in coding and new technologies
-- 🌱 I’m currently learning Flutter
+- 👋 Hi, I’m @Abhishek Kumar
+- 👀 I’m a Flutter developer who uses BLoC and Node.js
+- 🌱 I’m currently learning Game Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
